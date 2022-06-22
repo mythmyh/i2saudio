@@ -1,0 +1,9 @@
+malloc.c:48:6:mymemcpy	32	static
+malloc.c:58:6:mymemset	32	static
+malloc.c:65:6:my_mem_init	16	static
+malloc.c:74:9:my_mem_perused	24	static
+malloc.c:88:10:my_mem_malloc	32	static
+malloc.c:117:9:my_mem_free	32	static
+malloc.c:139:6:myfree	24	static
+malloc.c:150:7:mymalloc	24	static
+malloc.c:162:7:myrealloc	32	static
