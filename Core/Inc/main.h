@@ -59,8 +59,8 @@ void Error_Handler(void);
 
 /* Private defines -----------------------------------------------------------*/
 /* USER CODE BEGIN Private defines */
-#define RECORDER_MAX_CIRCLE 60000
-#define FILE_SIZE 12
+#define RECORDER_MAX_CIRCLE 1000
+#define FILE_SIZE 5
 
 /* USER CODE END Private defines */
 

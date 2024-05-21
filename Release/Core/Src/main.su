@@ -1,0 +1,7 @@
+main.c:162:6:rec_i2s_dma_rx_callback	16	static
+main.c:104:6:recoder_wav_init	0	static
+main.c:251:9:set_timestamp	8	static
+main.c:424:6:SystemClock_Config	96	static
+main.c:266:5:main	672	static
+main.c:693:5:__io_putchar	16	static
+main.c:703:6:Error_Handler	0	static
